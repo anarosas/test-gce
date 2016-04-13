@@ -1,3 +1,4 @@
-language: Python
-
+language: Objective-c
+sudo: false
 script: true
+install: pod setup
